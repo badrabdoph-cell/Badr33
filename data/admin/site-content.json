@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1771971237633,
+    "key": "services_title",
+    "value": "اختر باقتك ",
+    "category": "services",
+    "label": "عنوان صفحة الخدمات",
+    "createdAt": "2026-02-24T22:13:57.336Z",
+    "updatedAt": "2026-02-24T22:13:57.336Z"
+  },
+  {
+    "id": 1771971614559,
+    "key": "services_sessions_title",
+    "value": "باقات الزفاف ",
+    "category": "services",
+    "label": "عنوان قسم السيشن",
+    "createdAt": "2026-02-24T22:20:13.633Z",
+    "updatedAt": "2026-02-24T22:20:13.633Z"
+  },
+  {
+    "id": 1771972651718,
+    "key": "services_prints_subtitle",
+    "value": "اختار العناصر اللي تناسبك وهيتحسب الإجمالي تلقائي ",
+    "category": "services",
+    "label": "وصف قسم المطبوعات",
+    "createdAt": "2026-02-24T22:37:31.343Z",
+    "updatedAt": "2026-02-24T22:37:31.343Z"
+  },
+  {
+    "id": 1772058676266,
+    "key": "services_addons_title",
+    "value": "خدمات إضافية ",
+    "category": "services",
+    "label": "عنوان قسم الإضافات",
+    "offsetX": 0,
+    "offsetY": 0,
+    "createdAt": "2026-02-25T22:31:15.468Z",
+    "updatedAt": "2026-02-25T22:31:15.468Z"
+  },
+  {
+    "id": 1772202599179,
+    "key": "services_monthly_offer_button",
+    "value": "خصم 🔥",
+    "category": "services",
+    "label": "زر خصم (عرض الشهر)",
+    "offsetX": 0,
+    "offsetY": 0,
+    "createdAt": "2026-02-27T14:29:59.112Z",
+    "updatedAt": "2026-02-27T14:29:59.112Z"
+  },
+  {
+    "id": 1772202954994,
+    "key": "home_follow_title",
+    "value": "تابعنا",
+    "category": "home",
+    "label": "عنوان تابعنا",
+    "offsetX": 0,
+    "offsetY": 0,
+    "createdAt": "2026-02-27T14:35:54.551Z",
+    "updatedAt": "2026-02-27T15:08:14.001Z"
+  },
+  {
+    "id": 1772204720411,
+    "key": "package_2_feature_2",
+    "value": "‏Moodboard مخصص قبل السيشن",
+    "category": "services",
+    "label": "ميزة 2 - سيشن برو",
+    "offsetX": 0,
+    "offsetY": 0,
+    "createdAt": "2026-02-27T15:05:20.163Z",
+    "updatedAt": "2026-02-27T15:05:20.163Z"
+  },
+  {
+    "id": 1772205191943,
+    "key": "package_2_price",
+    "value": "3500",
+    "category": "services",
+    "label": "سعر الباقة سيشن برو",
+    "offsetX": 0,
+    "offsetY": 0,
+    "createdAt": "2026-02-27T15:13:11.008Z",
+    "updatedAt": "2026-02-27T16:21:15.386Z"
+  },
+  {
+    "id": 1772231461090,
+    "key": "package_6_price",
+    "value": "1500",
+    "category": "services",
+    "label": "سعر الباقة MEDIA COVERAGE",
+    "offsetX": 0,
+    "offsetY": 0,
+    "createdAt": "2026-02-27T22:31:01.038Z",
+    "updatedAt": "2026-02-27T22:31:01.038Z"
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1772209128498,
+    "packageId": 2,
+    "action": "update",
+    "snapshot": {
+      "id": 2,
+      "name": "سيشن برو",
+      "price": "3500",
+      "description": "سيشن PRO",
+      "features": [
+        "عدد غير محدود من الصور",
+        "MEDIA COVERAGE REELS",
+        "تنظيم ريلز واستوريهات السوشيال ميديا",
+        "أولوية تسليم سريع",
+        "وقت مفتوح"
+      ],
+      "badge": "PRO",
+      "category": "session",
+      "popular": true,
+      "visible": true,
+      "sortOrder": 2,
+      "offsetX": 0,
+      "offsetY": 0,
+      "createdAt": "2026-02-25T00:00:00.000Z",
+      "updatedAt": "2026-02-27T16:18:48.489Z"
+    },
+    "createdAt": "2026-02-27T16:18:48.498Z"
+  },
+  {
+    "id": 1772231446103,
+    "packageId": 5,
+    "action": "update",
+    "snapshot": {
+      "id": 5,
+      "name": "بارتي القاعة",
+      "price": "1200",
+      "emoji": "🎉",
+      "priceNote": "غير شامل رسوم اللوكيشن",
+      "description": "تغطية حفل الزفاف في القاعة",
+      "features": [
+        "عدد غير محدد من الصور دائماً",
+        "صور جماعية مع الأصدقاء والأقارب",
+        "توثيق كل لحظة حتى نهاية الحفل",
+        "لقطات عفوية تخلد فرحتك"
+      ],
+      "category": "addon",
+      "popular": false,
+      "visible": true,
+      "sortOrder": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "createdAt": "2026-02-25T00:00:00.000Z",
+      "updatedAt": "2026-02-27T22:30:46.081Z"
+    },
+    "createdAt": "2026-02-27T22:30:46.103Z"
+  },
+  {
+    "id": 1772544027412,
+    "packageId": 1,
+    "action": "update",
+    "snapshot": {
+      "id": 1,
+      "name": "سيشن بيزك",
+      "price": "2000",
+      "description": "فوتو",
+      "features": [
+        "عدد غير محدود من الصور",
+        "شامل REELS & TIKTOK",
+        "وقت محدد \"انت من يجدد الوقت \""
+      ],
+      "category": "session",
+      "popular": false,
+      "visible": true,
+      "sortOrder": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "createdAt": "2026-02-25T00:00:00.000Z",
+      "updatedAt": "2026-03-03T13:20:27.402Z"
+    },
+    "createdAt": "2026-03-03T13:20:27.412Z"
+  },
+  {
+    "id": 1772544284577,
+    "packageId": 1,
+    "action": "update",
+    "snapshot": {
+      "id": 1,
+      "name": "سيشن بيزك",
+      "price": "2000",
+      "description": "Basic",
+      "features": [
+        "عدد غير محدود من الصور",
+        "شامل REELS & TIKTOK",
+        "وقت محدد \"انت من يحدد الوقت \""
+      ],
+      "category": "session",
+      "popular": false,
+      "visible": true,
+      "sortOrder": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "createdAt": "2026-02-25T00:00:00.000Z",
+      "updatedAt": "2026-03-03T13:24:44.568Z"
+    },
+    "createdAt": "2026-03-03T13:24:44.577Z"
+  }
+]

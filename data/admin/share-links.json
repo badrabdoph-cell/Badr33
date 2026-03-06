@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1772232681186,
+    "code": "vksc",
+    "note": null,
+    "expiresAt": "2026-02-28T22:51:20.956Z",
+    "createdAt": "2026-02-27T22:51:20.956Z",
+    "updatedAt": "2026-02-27T23:12:01.893Z",
+    "revokedAt": "2026-02-27T23:12:01.893Z"
+  },
+  {
+    "id": 1772233925220,
+    "code": "nf6s",
+    "note": null,
+    "expiresAt": "2026-02-28T23:12:04.272Z",
+    "createdAt": "2026-02-27T23:12:04.272Z",
+    "updatedAt": "2026-02-27T23:12:04.272Z",
+    "revokedAt": null
+  },
+  {
+    "id": 1772325022823,
+    "code": "3ru3",
+    "note": null,
+    "expiresAt": null,
+    "createdAt": "2026-03-01T00:30:22.651Z",
+    "updatedAt": "2026-03-01T00:30:22.651Z",
+    "revokedAt": null
+  },
+  {
+    "id": 1772397843473,
+    "code": "j472",
+    "note": null,
+    "expiresAt": "2026-03-02T20:44:02.973Z",
+    "createdAt": "2026-03-01T20:44:02.973Z",
+    "updatedAt": "2026-03-01T20:44:02.973Z",
+    "revokedAt": null
+  },
+  {
+    "id": 1772574718074,
+    "code": "z7f2",
+    "note": null,
+    "expiresAt": "2026-03-06T21:51:57.472Z",
+    "createdAt": "2026-03-03T21:51:57.473Z",
+    "updatedAt": "2026-03-03T21:51:57.473Z",
+    "revokedAt": null
+  }
+]
